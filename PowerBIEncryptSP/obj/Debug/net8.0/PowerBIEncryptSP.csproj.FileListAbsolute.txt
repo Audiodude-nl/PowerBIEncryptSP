@@ -1,0 +1,12 @@
+d:\PowerBIEncryptSP\PowerBIEncryptSP\PowerBIEncryptSP\obj\Debug\net8.0\PowerBIEncryptSP.csproj.AssemblyReference.cache
+d:\PowerBIEncryptSP\PowerBIEncryptSP\PowerBIEncryptSP\obj\Debug\net8.0\PowerBIEncryptSP.GeneratedMSBuildEditorConfig.editorconfig
+d:\PowerBIEncryptSP\PowerBIEncryptSP\PowerBIEncryptSP\obj\Debug\net8.0\PowerBIEncryptSP.AssemblyInfoInputs.cache
+d:\PowerBIEncryptSP\PowerBIEncryptSP\PowerBIEncryptSP\obj\Debug\net8.0\PowerBIEncryptSP.AssemblyInfo.cs
+d:\PowerBIEncryptSP\PowerBIEncryptSP\PowerBIEncryptSP\obj\Debug\net8.0\PowerBIEncryptSP.csproj.CoreCompileInputs.cache
+d:\PowerBIEncryptSP\PowerBIEncryptSP\PowerBIEncryptSP\bin\Debug\net8.0\PowerBIEncryptSP.deps.json
+d:\PowerBIEncryptSP\PowerBIEncryptSP\PowerBIEncryptSP\bin\Debug\net8.0\PowerBIEncryptSP.dll
+d:\PowerBIEncryptSP\PowerBIEncryptSP\PowerBIEncryptSP\bin\Debug\net8.0\PowerBIEncryptSP.pdb
+d:\PowerBIEncryptSP\PowerBIEncryptSP\PowerBIEncryptSP\obj\Debug\net8.0\PowerBIEncryptSP.dll
+d:\PowerBIEncryptSP\PowerBIEncryptSP\PowerBIEncryptSP\obj\Debug\net8.0\refint\PowerBIEncryptSP.dll
+d:\PowerBIEncryptSP\PowerBIEncryptSP\PowerBIEncryptSP\obj\Debug\net8.0\PowerBIEncryptSP.pdb
+d:\PowerBIEncryptSP\PowerBIEncryptSP\PowerBIEncryptSP\obj\Debug\net8.0\ref\PowerBIEncryptSP.dll
