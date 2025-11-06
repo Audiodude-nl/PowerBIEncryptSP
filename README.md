@@ -1,5 +1,5 @@
-A powershell script that utilizes some of the SDK code from the PowerBI API to update and create SQL datasources on a gateway using Service Principals for auth.
-Using the undocumented PowerBI API v2. 
+A powershell script that utilizes some of the SDK code from the PowerBI c# SDK and the undocumented API v2 to update and create credentials for SQL datasources on an on premise data gateway using Service Principals for auth.
+
 This code might be useful until MS makes the V2 API public.
 
 You first need to build the dll file from the C# code.
